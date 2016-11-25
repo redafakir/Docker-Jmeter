@@ -1,7 +1,7 @@
  
-FROM fedora2
+FROM fedora:23
 
-#RUN dnf -y update
+RUN dnf -y update
 
 RUN dnf -y install wget
 
