@@ -1,0 +1,11 @@
+2.45,5.67
+5.67,7.88
+12.34,54.54
+123.56,78.77
+123.78,0
+45.67,9.09
+56.78,99.99
+1479736991386,6,landing page /,200,OK,Thread Group 1-1,true,,3340,1,1,6,1,0,localhost.localdomain
+1479736991385,6,transaction controller 1 /,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,true,,3340,1,1,6,1,0,localhost.localdomain
+1479736991394,9,Post calculation /,200,OK,Thread Group 1-1,true,,3764,1,1,4,1,0,localhost.localdomain
+1479736991394,9,transaction controller 2 /,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,true,,3764,1,1,4,1,0,localhost.localdomain
